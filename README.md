@@ -1,4 +1,3 @@
-````md
 # HTML Resume Page
 
 A simple and professional resume website built using **HTML**.  
@@ -80,5 +79,3 @@ GitHub: [https://github.com/umangpincha](https://github.com/umangpincha)
 ---
 
 Thank you for checking out this project! 🙏🏻
-
-```
