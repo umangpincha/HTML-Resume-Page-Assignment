@@ -47,19 +47,13 @@ HTML-Resume-Page-Assignment
 
 ---
 
-## Usage
-
-* Open `index.html`
-
----
-
 ## Screenshot
 ```
 assets/resume.png
 ```
 
 
-## 👤 Author
+## Author
 
 Umang Pincha
 
