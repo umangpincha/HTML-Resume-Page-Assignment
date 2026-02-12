@@ -1,4 +1,4 @@
-# HTML Resume Page
+[Umang_Pincha_Resume (1).pdf](https://github.com/user-attachments/files/25254846/Umang_Pincha_Resume.1.pdf)# HTML Resume Page
 
 A simple and professional resume website built using **HTML**.  
 This project displays personal information, skills, and experience in a clean layout.
@@ -49,7 +49,8 @@ HTML-Resume-Page-Assignment
 
 ## Screenshot
 ```
-assets/resume.png
+[Umang_Pincha_Resume (1).pdf](https://github.com/user-attachments/files/25254849/Umang_Pincha_Resume.1.pdf)
+
 ```
 
 
