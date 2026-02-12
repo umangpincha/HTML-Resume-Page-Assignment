@@ -53,8 +53,7 @@ HTML-Resume-Page-Assignment
 
 
 ## Live Link
-
-umang-resumme.netlify.app
+https://umang-resumme.netlify.app
 
 ## Author
 
