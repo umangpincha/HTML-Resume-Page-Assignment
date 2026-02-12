@@ -1,24 +1,24 @@
 ````md
-# 🌐 HTML Resume Page
+# HTML Resume Page
 
 A simple and professional resume website built using **HTML**.  
 This project displays personal information, skills, and experience in a clean layout.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This is a beginner-friendly static resume webpage created for learning basic frontend development.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5  
 
 ---
 
-## 📥 Setup Instructions
+## Setup Instructions
 
 Clone the repository:
 
@@ -42,7 +42,7 @@ open index.html
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 HTML-Resume-Page-Assignment
@@ -54,7 +54,7 @@ HTML-Resume-Page-Assignment
 
 ---
 
-## 📖 Usage
+## Usage
 
 * Edit `index.html` to change resume content
 * Edit `style.css` to update design
@@ -62,7 +62,7 @@ HTML-Resume-Page-Assignment
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 (Add your resume screenshot here later)
 
@@ -79,6 +79,6 @@ GitHub: [https://github.com/umangpincha](https://github.com/umangpincha)
 
 ---
 
-⭐ Thank you for checking out this project!
+Thank you for checking out this project! 🙏🏻
 
 ```
