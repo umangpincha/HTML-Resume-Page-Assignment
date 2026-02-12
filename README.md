@@ -25,12 +25,6 @@ Clone the repository:
 git clone https://github.com/umangpincha/HTML-Resume-Page-Assignment.git
 ````
 
-Go to project folder:
-
-```bash
-cd HTML-Resume-Page-Assignment
-```
-
 Open in browser:
 
 ```bash
