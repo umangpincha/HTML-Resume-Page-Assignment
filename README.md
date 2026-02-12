@@ -49,7 +49,7 @@ HTML-Resume-Page-Assignment
 
 ## Screenshot
 ```
-![image](assets/resume.png)
+![image](https://github.com/umangpincha/HTML-Resume-Page-Assignment/blob/27ee0c684b8e19684fd3364e2036490fab45383b/assets/resume.png)
 
 ```
 
