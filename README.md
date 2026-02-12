@@ -55,16 +55,11 @@ HTML-Resume-Page-Assignment
 
 ## Usage
 
-* Edit `index.html` to change resume content
-* Edit `style.css` to update design
-* Add more sections if needed
+* Open `index.html`
 
 ---
 
 ## Screenshot
-
-(Add your resume screenshot here later)
-
 ```
 assets/resume.png
 ```
